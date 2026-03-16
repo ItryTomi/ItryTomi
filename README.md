@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Tomas Aguirre</h1>
-<h3 align="center">Soy un Frontend apasionado</h3>
+<h3 align="center">Soy un Full-Stack apasionado</h3>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, ReactJS**
 
